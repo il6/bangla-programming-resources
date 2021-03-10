@@ -138,14 +138,10 @@
 * [সফটওয়্যার ডেভেলপমেন্টের ক্লাসিক ভুলগুলো](http://software-engineering-notes-in-bangla.blogspot.com/2015/12/blog-post.html) -  [ইশতিয়াক হোসাইন](https://www.facebook.com/ishtiaque.hussain.7)
 * [সিঙ্গেল সাইন অন বা এস-এস-ও (Single Sign On - SSO)](http://software-engineering-notes-in-bangla.blogspot.com/2015/10/single-sign-on-sso.html) - [ইশতিয়াক হোসাইন](https://www.facebook.com/ishtiaque.hussain.7)
 * [মেথড ওভারলোডিং- ওভাররাইডিং - Method overloading - overriding](http://software-engineering-notes-in-bangla.blogspot.com/2014/12/method-overloading-overriding.html) - [ইশতিয়াক হোসাইন](https://www.facebook.com/ishtiaque.hussain.7)(https://www.facebook.com/profile.php?id=573698472)
-* [প্রোগ্রামিং প্যারাডাইম](http://www.bazlur.com/2017/01/blog-post.html) - [বজলুর রহমান রোকন](https://www.facebook.com/rokonoid)
-* [Agile and Scrum](http://www.bazlur.com/2017/01/agile-and-scrum.html) - [বজলুর রহমান রোকন](https://www.facebook.com/rokonoid)
-* [Act with Prudence](http://www.bazlur.com/2017/01/act-with-prudence.html) - [বজলুর রহমান রোকন](https://www.facebook.com/rokonoid)
 * [টাইপ সিস্টেম (Type System)](https://medium.com/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%82-%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE/%E0%A6%9F%E0%A6%BE%E0%A6%87%E0%A6%AA-%E0%A6%B8%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%87%E0%A6%AE-type-system-bd2db56c3a52) - [আলাভোলা](https://medium.com/@amialavola)
 
 ---
 
 ### গো-ল্যাং (golang)
 * [বাংলায় গো-ল্যাং (golang) টিউটোরিয়াল](https://golang.howtocode.dev/) - [How-to-code](https://www.howtocode.dev/)
-- [গো নিয়ে গড়াগড়ি](http://go.goragori.com/) - [হাসিন হায়দার](https://www.facebook.com/hasin)
 
