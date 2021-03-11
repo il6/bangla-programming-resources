@@ -1,4 +1,5 @@
 ## ও-ও-পি (OOP) এবং ডিজাইন প্রিন্সিপালস
+* https://github.com/faif/python-patterns
 
 * [সলিড (S.O.L.I.D. ডিজাইন প্রিন্সিপালস](http://masnun.com/2015/06/15/bangla-screencast-solid-design-principles.html) - [আবু আশরাফ মাসনুন](https://www.facebook.com/abu.ashraf.masnun)
 
